@@ -4,7 +4,7 @@ provider "aws"{
     secret_key = ""
 
 }
-resource "aws_s3_bucket" "mybucket"{
-    bucket = "test_bucket_terraform"
+resource "aws_s3_bucket" "mybucket" {
+    bucket = "bucket_terraform"
    
 }
