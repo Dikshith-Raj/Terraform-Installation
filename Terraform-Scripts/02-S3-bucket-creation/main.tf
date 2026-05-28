@@ -5,6 +5,6 @@ provider "aws"{
 
 }
 resource "aws_s3_bucket" "mybucket"{
-    bucket = "Test_Bucket_terraform"
+    bucket = "test_bucket_terraform"
    
 }
