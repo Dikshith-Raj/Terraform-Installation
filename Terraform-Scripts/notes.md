@@ -33,6 +33,14 @@ AWS Secret Access Key [None]:
 Default region name [None]: us-east-1
 Default output format [None]: json
 
+## Aws uses IANA protocol numbers
+
+Protocol    Name
+TCP         6
+UDP         17 
+ICMP        1
+ALL         -1
+
 ## Architecture of any terraform project
 
 ![alt text](<Screenshot 2026-05-30 at 11.58.23 AM.png>)
