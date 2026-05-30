@@ -33,6 +33,8 @@ AWS Secret Access Key [None]:
 Default region name [None]: us-east-1
 Default output format [None]: json
 
-Aechitecture of 
+## Architecture of any terraform project
+
+![alt text](<Screenshot 2026-05-30 at 11.58.23 AM.png>)
 
 
