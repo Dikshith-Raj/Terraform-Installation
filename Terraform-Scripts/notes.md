@@ -21,4 +21,18 @@ sudo apt-get install terraform - y
 
 https://marketplace.visualstudio.com/items?itemName=MadsKristensen.Terraform 
 
+## Aws CLi installation
+
+sudo snap install aws-cli --classic
+
+ubuntu@ip-172-31-35-164:~/Terraform/Terraform-Scripts$ aws configure
+
+
+AWS Access Key ID [None]: 
+AWS Secret Access Key [None]: 
+Default region name [None]: us-east-1
+Default output format [None]: json
+
+Aechitecture of 
+
 
